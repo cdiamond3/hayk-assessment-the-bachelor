@@ -114,7 +114,7 @@ below to solve this one.
 
     * Think about how you will iterate through the hash to get to the level that
       contains a contestant's status.
-    * How will you check to see if a contestant's status equals `"Winner"`?
+    * How will you check to see if a contestant's status equals `"Winner"`? 
 
 2. Build a method, `get_contestant_name`, that takes in the data hash and an
    occupation string and returns the name of the woman who has that occupation.
